@@ -15,11 +15,15 @@ InsightMe is an open-source platform designed to automatically analyze datasets,
    git clone https://github.com/AhmedYousriSobhi/insightMe
 
 2. Navigate to the project directory:
+   ```
    cd InsightMe
+   ```
 
 3. Install the required dependencies:
+   ```
    pip install -r requirements.txt
-
+   ```
+   
 ### Usage:
 1. Upload your dataset to the platform through the user interface.
 2. Customize analysis settings, if desired.
@@ -31,7 +35,7 @@ InsightMe is an open-source platform designed to automatically analyze datasets,
 We welcome contributions from the community! Whether you're a data scientist, developer, or designer, your input can make InsightMe even better. To contribute, please follow our Contribution Guidelines in the CONTRIBUTING.md file.
 
 ## Support
-If you encounter any issues, have questions, or want to suggest improvements, please open an issue on the Issue Tracker: https://github.com/yourusername/InsightMe/issues.
+If you encounter any issues, have questions, or want to suggest improvements, please open an issue on the Issue Tracker: https://github.com/AhmedYousriSobhi/insightMe/issues.
 
 ## License
 InsightMe is released under the MIT License.
